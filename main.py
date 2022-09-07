@@ -5,8 +5,8 @@ import time
 
 MY_EMAIL = "___YOUR_EMAIL_HERE____"
 MY_PASSWORD = "___YOUR_PASSWORD_HERE___"
-MY_LAT = 56.460449
-MY_LONG = 10.036367 
+MY_LAT = 55.676098
+MY_LONG = 12.568337
 ########  Randers, Denmark - Jutland ###########
 
 def is_iss_overhead():
